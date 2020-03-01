@@ -12,7 +12,7 @@ import com.utility.ScreenShots;
 public class Constants {
 	
 	public RemoteWebDriver driver;
-
+	//Test comment to test tagging feature in github
 	public static Logger Log = Logger.getLogger(Constants.class.getName());
 
 		public static ScreenShots sc=new ScreenShots();
